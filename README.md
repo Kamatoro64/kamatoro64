@@ -11,7 +11,7 @@ My name is Chester and I am a IT technical consultant based in Singapore
 
 Currently Researching
 - Infrastructure as code
-- GitHub Actions for backend application
+- GitHub Actions vs Travis CI for CI/CD
 
 Current Task
 - Dockerize the Node.js app so that the automated test starts can be done in a single step. Currently only PostgreSQL database is dynamically created and discarded for each cycle
