@@ -14,6 +14,8 @@ Currently Researching
 - GitHub Actions vs Travis CI for CI/CD
 
 Current Task
-- Remove PostgreSQL Dockerfile since a custom image does not need to be built
-- Dockerize the Node.js app so that the automated test starts can be done in a single step. Currently only PostgreSQL database is dynamically created and discarded for each cycle
+- [x] Merge PostgreSQL Dockerfile directly into docker-compose.yml
+- [x] Node app and PostgreSQL database should run in 2 separate containers
+- [x] Test cycle should be executed correctly with docker-compose up
+- [ ] Optimise test cycle timings 
 
