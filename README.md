@@ -17,5 +17,7 @@ Current Task
 - [x] Merge PostgreSQL Dockerfile directly into docker-compose.yml
 - [x] Node app and PostgreSQL database should run in 2 separate containers
 - [x] Test cycle should be executed correctly with docker-compose up
+- [x] Implement Github Actions workflow for automated-testing branch
+- [x] Fix Docker volume issue -> Each test cycle should create a new Docker volume
 - [ ] Optimise test cycle timings 
 
