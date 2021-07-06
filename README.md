@@ -15,11 +15,18 @@ Currently Researching
 - EJS
 - passport.js
 
-Current Task
+API-and-Firewalls tasks
 - [x] Merge PostgreSQL Dockerfile directly into docker-compose.yml
 - [x] Node app and PostgreSQL database should run in 2 separate containers
 - [x] Test cycle should be executed correctly with docker-compose up
 - [x] Implement Github Actions workflow for automated-testing branch
 - [x] Fix Docker volume issue -> Each test cycle should create a new Docker volume
 - [ ] Optimise test cycle timings 
+- [ ] Implement front end with authentication -> passport_login
 
+passport_login tasks
+- [x] Set up ejs templates for login and register routes
+- [x] Set up GET routes for login and register -> Use res.render which requires app.set('view-engine', 'ejs')  
+- [x] Set up POST routes for login and register -> POST /register to push users with bcypt encrypted password into users array
+- [ ] Set up authentication using passport.js
+- [ ] Re-implement users array with a database
