@@ -12,6 +12,8 @@ My name is Chester and I am a IT technical consultant based in Singapore
 Currently Researching
 - Infrastructure as code
 - GitHub Actions vs Travis CI for CI/CD
+- EJS
+- passport.js
 
 Current Task
 - [x] Merge PostgreSQL Dockerfile directly into docker-compose.yml
