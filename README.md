@@ -28,5 +28,5 @@ passport_login tasks
 - [x] Set up ejs templates for login and register routes
 - [x] Set up GET routes for login and register -> Use res.render which requires app.set('view-engine', 'ejs')  
 - [x] Set up POST routes for login and register -> POST /register to push users with bcypt encrypted password into users array
-- [ ] Set up authentication using passport.js
+- [ ] Set up authentication using passport.js - DONE but further study on passport.js is required
 - [ ] Re-implement users array with a database
