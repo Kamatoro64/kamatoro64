@@ -12,7 +12,7 @@ My name is Chester and I am a IT technical consultant based in Singapore
 Currently Researching
 - Infrastructure as code
 - GitHub Actions vs Travis CI for CI/CD
-- EJS and template engines -> transition into React and Angular's built in template engine
+- Template engines Focus -> EJS (Others for Express: Pug, Mustache). Branch into React and Angular's built in template engine
 - passport.js
 
 API-and-Firewalls tasks
