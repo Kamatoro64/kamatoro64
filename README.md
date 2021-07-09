@@ -10,8 +10,10 @@ My name is Chester and I am a IT technical consultant based in Singapore
 
 
 Currently Researching
+- Prometheus Monitoring 
 - Infrastructure as code
 - GitHub Actions vs Travis CI for CI/CD
+- Istio service mesh
 - Template engines Focus -> EJS (Others for Express: Pug, Mustache). Branch into React and Angular's built in template engine
 - Template engines big picture = server side rendering vs client site rendering pros and cons
 - passport.js
