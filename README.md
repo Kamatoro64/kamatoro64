@@ -13,6 +13,7 @@ Currently Researching
 - Infrastructure as code
 - GitHub Actions vs Travis CI for CI/CD
 - Template engines Focus -> EJS (Others for Express: Pug, Mustache). Branch into React and Angular's built in template engine
+- Template engines big picture = server side rendering vs client site rendering pros and cons
 - passport.js
 
 API-and-Firewalls tasks
